@@ -1,4 +1,6 @@
-### Hi there 👋
+
+<h1>Hi! I'm Estanislao Olmedo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"  height='50px'></h1>
+<img src="https://readme-typing-svg.herokuapp.com?color=E9B517&lines=Full+Stack+Developer;Web3+enthusiast">
 
 <!--
 **Estani02/Estani02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
