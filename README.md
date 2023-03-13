@@ -40,3 +40,8 @@
 <a href="https://www.figma.com/" target="_blank" title="Figma"><img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
 
 &nbsp;
+
+
+## 👨🏻‍💻 Languages & Tools I use:
+<a href="https://www.javascript.com/" target="_blank" title="JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
