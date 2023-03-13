@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=E9B517&lines=Full+Stack+Developer;Web3+enthusiast">
 
 ### About me:
-- 🌎 Currently base at: Buenos Aires, Argentina
+- 🌎 Currently live in: Córdoba, Argentina
 - <img align='center' src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/tdgwdgx9n7ubjqkhr6ew" width="20px"> Graduate Student from **[Henry](https://www.soyhenry.com/webfullstack)**
 - 👨🏻‍💻 I am currently working on **an animal shelter website**
 - 📚 I’m currently learning **React Native** 📲
