@@ -2,8 +2,15 @@
 <h1>Hi! I'm Estanislao Olmedo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"  height='50px'></h1>
 <img src="https://readme-typing-svg.herokuapp.com?color=E9B517&lines=Full+Stack+Developer;Web3+enthusiast">
 
+### About me:
+- 🌎 Currently base at: Buenos Aires, Argentina
+- <img align='center' src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/tdgwdgx9n7ubjqkhr6ew" width="20px"> Graduate Student from **[Henry](https://www.soyhenry.com/)**
+- 👨🏻‍💻 I am currently working on **an animal shelter website**
+- 📚 I’m currently learning **React Native** 📲
+- 👯 I’m looking to collaborate on Web3 Projects
+- 💬 Ask me about web development
+
 <!--
-**Estani02/Estani02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
