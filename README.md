@@ -15,7 +15,7 @@
 &nbsp; &nbsp;
 <a href="mailto:estaniolmedo@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="35px" alt="mail"></a>
 &nbsp; &nbsp;
-<a href="[https://estaniolmedo.surge.sh/](https://estaniolmedo.vercel.app/)" target="_blank"><img title='Portfolio Website' src="https://cdn-icons-png.flaticon.com/512/186/186373.png" width="40px" alt="mail"></a> 
+<a href="https://estaniolmedo.vercel.app/" target="_blank"><img title='Portfolio Website' src="https://cdn-icons-png.flaticon.com/512/186/186373.png" width="40px" alt="mail"></a> 
 &nbsp; &nbsp;
 
 
